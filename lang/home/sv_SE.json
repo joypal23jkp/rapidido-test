@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "title": "Rapedido | Beställ Nu",
+        "keywords": "Rapedido, Rapedido.es, Beställ Nu, Beställa mat, Mobilbeställning, Online beställning, Hemleverans, Leverans, Matleverans",
+        "description": "Med Rapedido kan du lägga en beställning, komplettera din beställning och betala med din mobil."
+    },
+    "hero": {
+        "partner_text": "Registrera er som handlare",
+        "title": "Beställ, Ombeställ och betala snabbare!",
+        "search_placeholder": "Sök stad, restaurang..."
+    },
+    "top_menu": {
+        "login": "Logga in",
+        "menu": {
+            "dashboard": "Dashboard",
+            "logout": "Logga ut"
+        },
+        "locals": {
+            "en": "US",
+            "es": "ES",
+            "se": "SE"
+        }
+    }
+}

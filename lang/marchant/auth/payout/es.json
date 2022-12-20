@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "title": "Rapedido | Create an Merchant account",
+        "keywords": "Create a merchant account",
+        "description": "Create a merchant account"
+    },
+    "title": "Pagar",
+    "summery": "Configure sus ajustes de pago manejados por Stripe.com. Necesitarás una cuenta para poder obtener los fondos de las ventas realizadas a través de Rapedido. El pago toma hasta 3 días bancarios solamente.",
+    "continue": "Continuar a la raya",
+    "skip": "O Saltar por ahora",
+    "top_menu": {
+        "login": "Inscribirse",
+        "locals": {
+            "en": "US",
+            "es": "ES"
+        }
+    }
+}

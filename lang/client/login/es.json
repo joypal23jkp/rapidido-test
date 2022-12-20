@@ -1,0 +1,34 @@
+{
+    "meta": {
+        "title": "Rapedido | Crea una cuenta",
+        "keywords": "Rapedido, Rapedido.es, Ordenar Ahora, ordenar ahora ",
+        "description": "Con Rapedido puedes realizar un pedido, complementar tu pedido y pagar desde tu móvil."
+    },
+    "title": "Registrarse",
+    "verification_title": "Verificación SMS",
+    "form": {
+        "verification_placeholder": "Introducir código desde SMS",
+        "label": {
+            "phone_number": "Phone Number"
+        },
+        "submit_button": "Registrarse",
+        "verify_button": "Verify",
+        "error": {
+            "phone_required": "Please enter your phone number",
+            "otp_required": "Please enter your OTP"
+        },
+        "already_have_account": "¿Ya tienes una cuenta?",
+        "sign_up": "Inscribirse",
+        "forgot_password": "¿Has olvidado tu contraseña?"
+    },
+    "top_menu": {
+        "login": "Inscribirse",
+        "menu": {
+            "logout": "Salir"
+        },
+        "locals": {
+            "en": "US",
+            "es": "ES"
+        }
+    }
+}

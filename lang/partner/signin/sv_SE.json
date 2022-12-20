@@ -1,0 +1,31 @@
+{
+    "meta": {
+        "title": "Rapedido | Skapa ett konto",
+        "keywords": "Rapedido, Rapedido.es, Beställ Nu",
+        "description": "Med Rapedido kan du lägga en beställning, komplettera din beställning och betala med din mobil."
+    },
+    "title": "Logga in",
+    "form": {
+        "label": {
+            "email_address": "E-postadress",
+            "password": "Lösenord"
+        },
+        "submit_button": "Logga in",
+        "error": {
+            "email_required": "Var god skriv in din e-postadress",
+            "password_required": "Vänligen ange ett lösenord",
+            "password_length": "Lösenordet måste innehålla minst 6 tecken"
+        },
+        "already_have_account": "Har du redan ett konto?",
+        "sign_up": "Bli Medlem",
+        "forgot_password": "Glömt ditt lösenord?"
+    },
+    "top_menu": {
+        "login": "Bli Medlem",
+        "locals": {
+            "en": "US",
+            "es": "ES",
+            "se": "SE" 
+        }
+    }
+}

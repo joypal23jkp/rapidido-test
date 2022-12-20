@@ -1,0 +1,44 @@
+{
+    "meta": {
+        "title": "Rapedido | Create an Merchant account",
+        "keywords": "Create a merchant account",
+        "description": "Create a merchant account"
+    },
+    "title": "Business Details",
+    "summery": "By signing up to our services, means you agree to the Seller Agreement & Privacy Policy. To add more services click here",
+    "form": {
+        "label": {
+            "company_name": "Company Name",
+            "company_number": "Company Number",
+            "country": "Country",
+            "address": "Address",
+            "type_of_merchant": "Type of Merchant",
+            "phone_number": "Phone Number",
+            "email_address": "Email Address"
+        },
+        "placeholder": {
+            "mobile": "Enter your mobile"
+        },
+        "submit_button": "Sign Up",
+        "sign_in": "Sign in",
+        "next_button": "Next",
+        "error": {
+            "company_name": "Please enter your full name",
+            "company_number": "Please enter your email address",
+            "country": "Please enter your Phone Number",
+            "address": "Please enter a password",
+            "type_of_merchant": "Please confirm your password",
+            "phone_number": "Password must contain at least 6 characters",
+            "email_address": "Password must match"
+        },
+        "already_have_account": "Already have an account?",
+        "sign_up": "Sign Up"
+    },
+    "top_menu": {
+        "login": "Signup",
+        "locals": {
+            "en": "US",
+            "es": "ES"
+        }
+    }
+}

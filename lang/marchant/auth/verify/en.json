@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "title": "Rapedido | Create an Merchant account",
+        "keywords": "Create a merchant account",
+        "description": "Create a merchant account"
+    },
+    "title": "Enter Verification Code",
+    "description": "We Send a code to",
+    "reset": "Having trouble? Request a new OTP in",
+    "resend": "Resend Code",
+    "form": {
+        "verify": "verify",
+        "error": {
+            "title": "Error",
+            "otp_required": "Otp is required"
+        }
+    },
+    "top_menu": {
+        "login": "SignIn",
+        "locals": {
+            "en": "US",
+            "es": "ES"
+        }
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "meta": {
+        "title": "Rapedido | Partner",
+        "keywords": "Rapedido, Rapedido.es, Beställ Nu",
+        "description": "Med Rapedido kan du lägga en beställning, komplettera din beställning och betala med din mobil."
+    },
+    "hero" : {
+        "title" : "Starta på 15 minuter",
+        "subtitle" : "Första månaden gratis",
+        "tagline" : "Låt er gäst beställa, ombeställa och betaa snabbare!",
+        "register_button_text" : "Skapa konto"
+    },
+    "contact" : {
+        "title" : "Contact",
+        "email_placeholder" : "Fyll med er Epost adress",
+        "phone_placeholder" : "och ert telefonnummer",
+        "message_placeholder" : "Slutligen ett eventuellt meddelade",
+        "submit_button_text" : "Skicka meddelande"
+    },
+    "sections": {
+        "section_one": {
+            "title": "Digitalt, effectivt & enkelt",
+            "sub_title": "Det enklaste sättet för din gäst att beställa och betala.",
+            "step": "Så funkar det",
+            "text_1": "Scanna, beställ och betala",
+            "text_2": "Hantera aööa beställningar",
+            "text_3": "Notifiera när det är klart"
+        },
+        "section_two": {
+            "title": "Välj Tjänster",
+            "subtitle": "Välj en eller flera tjänster du vill ha för ditt företag genom att klicka på knappen Aktivera.",
+            "monthly":"Månatligt",
+            "transaction": "Transaktion",
+            "types": {
+                "digital_order": "Digitala beställingar",
+                "point_of_sale": "Kassalösning - POS",
+                "terminal": "Terminaler",
+                "crm": "Kundsystem - CRM",
+                "delivery": "Hemleverans"
+            },
+            "activate_button_text": "Aktivera",
+            "activated_button_text": "Aktiverad",
+            "become_partner_button_text": "Bli partner",
+            "order_confirm_note": "Su tarifa mensual por el servicio de pedido y entrega digital"
+        },
+        "section_three": {
+            "title": "Utmärkta verktyg"
+        },
+        "section_four": {
+            "title": "Hårdvara",
+            "payment": {
+                "monthly": "Avbetalning",
+                "full_payment": "Pris"
+            },
+            "types": {
+                "standard": "Standard",
+                "style": "Style",
+                "terminal": "Terminal",
+                "printer": "Printer",
+                "touch_screen": "Touch screen 24\""
+            }
+        },
+        "section_offer": {
+            "title": "250Kr/mån för alla moduler",
+            "button_text": "Bli Medlem"
+        }
+    },
+    "top_menu": {
+        "login": "Logga in",
+        "menu": {
+            "dashboard": "Dashboard",
+            "logout": "Logga ut"
+        },
+        "locals": {
+            "en": "US",
+            "es": "ES",
+            "se": "SE" 
+        }
+    },
+    "card": {
+        "add_card_text": "Lägg till kort"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "title": "Rapedido | Search",
+        "keywords": "Rapedido, Rapedido.es, Order Now",
+        "description": "With Rapedido, you can place an order, complement your order and pay using your mobile."
+    },
+    "hero": {
+        "partner_text": "BECOME A PARTNER",
+        "title": "Order, reorder and pay faster",
+        "search_placeholder": "Search city, restaurant..."
+    },
+    "top_menu": {
+        "login": "Login",
+        "menu": {
+            "dashboard": "Dashboard",
+            "logout": "Logout"
+        },
+        "locals": {
+            "en": "US",
+            "es": "ES"
+        }
+    }
+}

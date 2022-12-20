@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .top-bar__logo {
+    @apply h-7 w-auto object-cover;
+  }
+
+  .form_input {
+    @apply py-[10px] px-[14px] w-full rounded placeholder:text-sm placeholder:text-[#A1A1A6];
+  }
+  .form_input.error {
+    @apply border-2 border-red-500 focus:ring-inherit	 focus:ring-2;
+  }
+
+  .input {
+    @apply w-full block border-[1px] border-gray-500 focus:ring-0 outline-none rounded-md px-3 py-4 placeholder:text-[#BDBDBD] placeholder:font-medium;
+  }
+  .input_password {
+    @apply placeholder:text-5xl placeholder:tracking-tighter;
+  }
+  .nav__order_button {
+    @apply bg-primary cursor-pointer w-full py-2 text-white flex justify-center items-center;
+  }
+  .btn {
+    @apply flex justify-center items-center text-[25px] font-bold mb-4 hover:bg-gray-300 rounded;
+  }
+  .h-full-vh {
+    @apply min-h-[calc(100vh-4rem)];
+  }
+
+  .disclosure {
+    @apply border-b border-[#00000021] flex w-full justify-between rounded px-4 py-2 text-left font-medium text-black hover:bg-[#00000021] focus:outline-none focus-visible:ring focus-visible:ring-purple-500 focus-visible:ring-opacity-75
+  }
+
+  .anim__scale__105 {
+    @apply transition ease-in-out duration-300 hover:scale-105;
+  }
+    .custom-file-input::-webkit-file-upload-button {
+      visibility: hidden;
+    }
+    .custom-file-input::before {
+      content: '';
+      color: transparent;
+      display: inline-block;
+      background: linear-gradient(to bottom, #f9f9f9, #e3e3e3);
+      white-space: nowrap;
+      -webkit-user-select: none;
+      cursor: pointer;
+      height: 100px;
+      width: 100px;
+      position: absolute;
+      top: 0;
+      left: 0;
+    }
+}

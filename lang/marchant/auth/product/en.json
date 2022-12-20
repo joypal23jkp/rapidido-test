@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "title": "Rapedido | Create an Merchant account",
+        "keywords": "Create a merchant account",
+        "description": "Create a merchant account"
+    },
+    "title": "Items",
+    "summery": "Set up your catalog",
+    "add_modifier": "Add Modifiers",
+    "first_item": "Add First Item",
+    "first_category": "Add First Category",
+    "skip": "Or Skip for now",
+    "top_menu": {
+        "login": "Signup",
+        "locals": {
+            "en": "US",
+            "es": "ES"
+        }
+    }
+}

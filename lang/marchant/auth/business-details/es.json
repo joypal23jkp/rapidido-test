@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "title": "Rapedido | Create an Merchant account",
+        "keywords": "Create a merchant account",
+        "description": "Create a merchant account"
+    },
+    "title": "Detalles del negocio",
+    "summery": "Al suscribirse a nuestros servicios, significa que acepta el Acuerdo del vendedor y la Política de privacidad. Para agregar más servicios haga click aquí",
+    "form": {
+        "label": {
+            "company_name": "nombre de empresa",
+            "company_number": "Numero de compañia",
+            "country": "País",
+            "address": "Dirección",
+            "type_of_merchant": "Tipo de comerciante",
+            "phone_number": "Número de teléfono",
+            "email_address": "Dirección de correo electrónico"
+        },
+        "placeholder": {
+            "mobile": "Enter your mobile"
+        },
+        "submit_button": "Inscribirse",
+        "error": {
+            "company_name": "Por favor ingresa tu nombre completo",
+            "country": "Por favor, introduzca su número de teléfono",
+            "address": "Por favor ingrese una dirección",
+            "email_address": "Proporcione su correo electrónico válido"
+        },
+        "sign_up": "Inscribirse",
+        "continue": "Continúa"
+    },
+    "top_menu": {
+        "login": "Inscribirse",
+        "locals": {
+            "en": "US",
+            "es": "ES"
+        }
+    }
+}

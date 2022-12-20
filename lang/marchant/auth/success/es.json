@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "title": "Rapedido | Create an Merchant account",
+        "keywords": "Create a merchant account",
+        "description": "Create a merchant account"
+    },
+    "title": "Felicidades",
+    "summery": "Su perfil de comerciante ha sido creado ahora. Ahora puede utilizar todos los servicios que elija.",
+    "add_items": "Agregar artículos",
+    "continue": "Continúa configurando tu Tienda",
+    "skip": "O Saltar por ahora",
+    "top_menu": {
+        "login": "Signup",
+        "locals": {
+            "en": "US",
+            "es": "ES"
+        }
+    }
+}

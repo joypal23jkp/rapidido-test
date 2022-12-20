@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "title": "Rapedido | Create an Merchant account",
+        "keywords": "Create a merchant account",
+        "description": "Create a merchant account"
+    },
+    "title": "Congratulations",
+    "summery": "Your merchant profile has been created now. You can now use all of the services you choose.",
+    "add_items": "Add Items",
+    "continue": "Continue setting up your Store",
+    "skip": "Or Skip for now",
+    "top_menu": {
+        "login": "Signup",
+        "locals": {
+            "en": "US",
+            "es": "ES"
+        }
+    }
+}

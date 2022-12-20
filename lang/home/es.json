@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "title": "Rapedido | Ordenar Ahora",
+        "keywords": "Rapedido, Rapedido.es, Ordenar Ahora, ordenar ahora, ordenar comida, pedido móvil, Pedidos en línea, Entrega a domicilio, Entrega, Entrega de comida",
+        "description": "Con Rapedido puedes realizar un pedido, complementar tu pedido y pagar desde tu móvil."
+    },
+    "hero": {
+        "partner_text": "CONVERTIRSE EN UN COMPAÑERO",
+        "title": "Ordenar, reordenar y pagar más rápido",
+        "search_placeholder": "Buscar ciudad, restaurante..."
+    },
+    "top_menu": {
+        "login": "Acceso",
+        "menu": {
+            "dashboard": "Panel",
+            "logout": "Salir"
+        },
+        "locals": {
+            "en": "US",
+            "es": "ES"
+        }
+    }
+}

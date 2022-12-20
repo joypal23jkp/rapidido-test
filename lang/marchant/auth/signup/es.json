@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "title": "Rapedido | Crea una cuenta",
+        "keywords": "Rapedido, Rapedido.es, Ordenar Ahora, ordenar ahora ",
+        "description": "Con Rapedido puedes realizar un pedido, complementar tu pedido y pagar desde tu móvil."
+    },
+    "title": "O, Crea una cuenta",
+    "form": {
+        "error": {
+            "email_required": "Por favor, introduzca su dirección de correo electrónico",
+            "password_required": "porfavor ingrese una contraseña",
+            "confirm_password_required": "Por favor, confirme su contraseña",
+            "password_length": "La contraseña debe contener al menos 6 caracteres",
+            "password_miss_match": "La contraseña debe coincidir"
+        },
+        "next_button": "Siguiente"
+    },
+    "top_menu": {
+        "login": "Acceso",
+        "locals": {
+            "en": "US",
+            "es": "ES"
+        }
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "meta": {
+        "title": "Rapedido | Compañero",
+        "keywords": "Rapedido, Rapedido.es, Ordenar Ahora, ordenar ahora ",
+        "description": "Con Rapedido puedes realizar un pedido, complementar tu pedido y pagar desde tu móvil."
+    },
+    "hero" : {
+        "title" : "Comience en 15 minutos - Primer mes gratis",
+        "subtitle" : "haga clic en el icono",
+        "tagline" : "Deje que el cliente ordene, reordene y pague",
+        "register_button_text" : "REGÍSTRATE AHORA"
+    },
+    "contact" : {
+        "title" : "Contacto",
+        "email_placeholder" : "escriba su email",
+        "phone_placeholder" : "y tu número de teléfono",
+        "message_placeholder" : "por fin tu mensaje",
+        "submit_button_text" : "Enviar mensaje"
+    },
+    "sections": {
+        "section_one": {
+            "title": "Digital, efectivo y simple",
+            "sub_title": "La forma más fácil para su invitada de ordenar y pagar.",
+            "step": "Paso",
+            "text_1": "Escanea, ordena y paga",
+            "text_2": "Gestionar todos los pedidos",
+            "text_3": "Aviso cuando esté lista"
+        },
+        "section_two": {
+            "title": "Elija Servicios",
+            "subtitle": "Elija uno o más servicios que desee para su negocio haciendo clic en el botón activar.",
+            "monthly":"Mensual",
+            "transaction": "Transacciones",
+            "types": {
+                "digital_order": "Pedido Digital",
+                "point_of_sale": "Ponto De Venta",
+                "crm": "CRM",
+                "delivery": "Entrega"
+            },
+            "activate_button_text": "Activar",
+            "activated_button_text": "Activada",
+            "become_partner_button_text": "Convertirse en un compañero",
+            "order_confirm_note": "Din månadsavgift för digital beställning och leveransservice "
+        },
+        "section_three": {
+            "title": "Grandes funciones"
+        },
+        "section_four": {
+            "title": "Hardware opcional",
+            "payment": {
+                "monthly": "Mensual",
+                "full_payment": "Pago completo"
+            },
+            "types": {
+                "standard": "Estándar",
+                "style": "Estilo",
+                "terminal": "Terminal",
+                "printer": "Impresora",
+                "touch_screen": "Pantalla táctil 24\""
+            }
+        },
+        "section_offer": {
+            "title": "25 euros mensuales para todos los servicios",
+            "button_text": "Regístrate"
+        }
+    },
+    "top_menu": {
+        "login": "Acceso",
+        "menu": {
+            "dashboard": "Panel",
+            "logout": "Salir"
+        },
+        "locals": {
+            "en": "US",
+            "es": "ES"
+        }
+    },
+    "card": {
+        "add_card_text": "Agregar Carrito"
+    }
+}

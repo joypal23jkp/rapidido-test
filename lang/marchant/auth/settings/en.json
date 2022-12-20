@@ -1,0 +1,31 @@
+{
+    "meta": {
+        "title": "Rapedido | Create an Merchant account",
+        "keywords": "Create a merchant account",
+        "description": "Create a merchant account"
+    },
+    "title": "Settings",
+    "summery": "Do other Settings to finalize your setup",
+    "list": {
+        "profile": { "title": "My Profile" },
+        "organisation": { "title": "Organization info" },
+        "payment": { "title": "Accepting Payment" },
+        "modifiers": { "title": "Modifiers" },
+        "sections": { "title": "Sections" },
+        "tables": { "title": "Tables"},
+        "hardware": { "title": "Hardware" },
+        "cash": { "title": "Cash List" },
+        "tax": { "title": "Tax" },
+        "delivery": {"title": "Delivery" },
+        "billing": { "title": "Billing" }
+    },
+    "continue": "Continue",
+    "skip": "Or Skip for now",
+    "top_menu": {
+        "login": "Signup",
+        "locals": {
+            "en": "US",
+            "es": "ES"
+        }
+    }
+}

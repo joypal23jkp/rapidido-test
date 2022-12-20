@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "title": "Rapedido | Felicidades por crear una cuenta de comerciante",
+        "keywords": "Felicidades por crear una cuenta de comerciante",
+        "description": "Felicidades por crear una cuenta de comerciante"
+    },
+    "title": "¡Felicitaciones, ya está todo listo!",
+    "description": "Tenemos una gama de servicios de los que su organización puede beneficiarse. Visite nuestra configuración para activar los servicios que necesita para ejecutar una operación óptima.",
+    "add_items": "Agregar artículos",
+    "setting": "Ir a la configuración",
+    "skip": "O Saltar por ahora",
+    "top_menu": {
+        "login": "Registrarse",
+        "locals": {
+            "en": "US",
+            "es": "ES",
+            "sv_SE": "SW"
+        }
+    }
+}

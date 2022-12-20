@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "title": "Rapedido | Sign In",
+        "keywords": "Rapedido, Rapedido.es, Order Now, Sign Up, Sign Up to Rapedido.es",
+        "description": "With Rapedido, you can place an order, complement your order and pay using your mobile."
+    },
+    "title": "Sign In",
+    "form": {
+        "label": {
+            "email_address": "Email address"
+        },
+        "submit_button": "Reset",
+        "error": {
+            "email_required": "Please enter your email address"
+        },
+        "already_have_account": "Already have an account?",
+        "sign_in": "Sign In"
+    },
+    "top_menu": {
+        "login": "Sign In",
+        "locals": {
+            "en": "US",
+            "es": "ES"
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "title": "Rapedido | Create an Merchant account",
+        "keywords": "Create a merchant account",
+        "description": "Create a merchant account"
+    },
+    "title": "Detalles de impuestos",
+    "summery": "Añade los impuestos de tus artículos",
+    "add_new": "Agregar nueva clase de impuestos",
+    "continue": "Continuar",
+    "skip": "O Saltar por ahora",
+    "top_menu": {
+        "login": "Signup",
+        "locals": {
+            "en": "US",
+            "es": "ES"
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "meta": {
+        "title": "Rapedido | Create an Merchant account",
+        "keywords": "Create a merchant account",
+        "description": "Create a merchant account"
+    },
+    "title": "Ajustes",
+    "summery": "Realice otras configuraciones para finalizar su configuración",
+    "list": {
+        "profile": { "title": "Mi perfil" },
+        "organisation": { "title": "información de la organización" },
+        "payment": { "title": "Aceptar pago" },
+        "modifiers": { "title": "Modificadores" },
+        "sections": { "title": "Secciones" },
+        "tables": { "title": "Mesas"},
+        "hardware": { "title": "Hardware" },
+        "cash": { "title": "Lista de efectivo" },
+        "tax": { "title": "Impuesto" },
+        "delivery": {"title": "Entrega" },
+        "billing": { "title": "Facturación" }
+    },
+    "continue": "Continuar",
+    "skip": "O Saltar por ahora",
+    "top_menu": {
+        "login": "Inscribirse",
+        "locals": {
+            "en": "US",
+            "es": "ES"
+        }
+    }
+}

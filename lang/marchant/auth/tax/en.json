@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "title": "Rapedido | Create an Merchant account",
+        "keywords": "Create a merchant account",
+        "description": "Create a merchant account"
+    },
+    "title": "Tax Details",
+    "summery": "Add the taxes for your items",
+    "add_new": "Add New Tax Class",
+    "continue": "Continue",
+    "skip": "Or Skip for now",
+    "top_menu": {
+        "login": "Signup",
+        "locals": {
+            "en": "US",
+            "es": "ES"
+        }
+    }
+}

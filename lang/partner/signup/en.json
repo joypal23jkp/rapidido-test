@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "title": "Rapedido | Create an account",
+        "keywords": "Rapedido, Rapedido.es, Order Now, Sign Up, Sign Up to Rapedido.es",
+        "description": "With Rapedido, you can place an order, complement your order and pay using your mobile."
+    },
+    "title": "Or, Create an account",
+    "form": {
+        "label": {
+            "full_name": "Full name",
+            "email_address": "Email address",
+            "password": "Password",
+            "confirm_password": "Repeat password"
+        },
+        "placeholder": {
+            "full_name": "Enter your name"
+        },
+        "submit_button": "Sign Up",
+        "error": {
+            "full_name": "Please enter your full name",
+            "email_required": "Please enter your email address",
+            "password_required": "Please enter a password",
+            "confirm_password_required": "Please confirm your password",
+            "password_length": "Password must contain at least 6 characters",
+            "password_miss_match": "Password must match"
+        },
+        "already_have_account": "Already have an account?",
+        "sign_in": "Sign In"
+    },
+    "top_menu": {
+        "login": "Login",
+        "locals": {
+            "en": "US",
+            "es": "ES"
+        }
+    },
+    "menu": {
+        "logout": "signup"
+    }
+}

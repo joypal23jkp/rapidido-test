@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "title": "Rapedido | Grattis till att du har skapat ett säljarkonto",
+        "keywords": "Grattis till att du har skapat ett säljarkonto",
+        "description": "Grattis till att du har skapat ett säljarkonto"
+    },
+    "title": "Grattis, nu är du redo!",
+    "description": "Vi har en rad tjänster som din organisation kan dra nytta av. Besök våra inställningar för att aktivera de tjänster du behöver för att driva en optimal drift.",
+    "add_items": "Lägg till objekt",
+    "setting": "Gå till Inställningar",
+    "skip": "Eller hoppa över nu",
+    "top_menu": {
+        "login": "Logga in",
+        "locals": {
+            "en": "US",
+            "es": "ES",
+            "sv_SE": "SW"
+        }
+    }
+}

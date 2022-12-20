@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "title": "rapedido | Crear una cuenta de comerciante",
+        "keywords": "Crear una cuenta de comerciante",
+        "description": "Crear una cuenta de comerciante"
+    },
+    "title": "Ingrese el código de verificación",
+    "description": "Nosotros enviamos un codigo a",
+    "reset": "¿Teniendo problemas? Solicitar una nueva OTP en",
+    "resend": "Reenviar codigo",
+    "form": {
+        "verify": "verificar",
+        "error": {
+            "title": "Error",
+            "otp_required": "Se requiere Otp"
+        }
+    },
+    "top_menu": {
+        "login": "Registrarse",
+        "locals": {
+            "en": "US",
+            "es": "ES"
+        }
+    }
+}

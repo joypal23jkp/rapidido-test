@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "title": "Rapedido | Congratulations for creating a merchant account",
+        "keywords": "Congratulations for creating a merchant account",
+        "description": "Congratulations for creating a merchant account"
+    },
+    "title": "Congratulations, You are now all set!",
+    "description": "We have a range of services that your organization can benefit from. Visit our settings to activate the services you need to run an optimal operation.",
+    "add_items": "Add Items",
+    "setting": "Go to Settings",
+    "skip": "Or Skip for now",
+    "top_menu": {
+        "login": "SignIn",
+        "locals": {
+            "en": "US",
+            "es": "ES",
+            "sv_SE": "SW"
+        }
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "meta": {
+        "title": "Rapedido | Partner",
+        "keywords": "Rapedido, Rapedido.es, Order Now",
+        "description": "With Rapedido, you can place an order, complement your order and pay using your mobile."
+    },
+    "hero" : {
+        "title" : "Get started in 15 minutes - First month free",
+        "subtitle" : "Click on the icon",
+        "tagline" : "Let the customer order, reorder and pay",
+        "register_button_text" : "Register now"
+    },
+    "contact" : {
+        "title" : "Contact",
+        "email_placeholder" : "Write your email",
+        "phone_placeholder" : "and your phone number",
+        "message_placeholder" : "finally your message",
+        "submit_button_text" : "Send Message"
+    },
+    "sections": {
+        "section_one": {
+            "title": "Digital, effective & simple",
+            "sub_title": "The easiest way for your guest to order and pay.",
+            "step": "Step",
+            "text_1": "Scan, order and pay",
+            "text_2": "Manage all orders",
+            "text_3": "Notice when ready"
+        },
+        "section_two": {
+            "title": "Choose Services",
+            "subtitle": "Choose one or more services you want for your business by clicking activate button.",
+            "monthly":"Monthly",
+            "transaction": "Transactions",
+            "types": {
+                "digital_order": "Mobile order",
+                "point_of_sale": "Point Of Sale",
+                "terminal": "Terminal",
+                "crm": "CRM",
+                "delivery": "Delivery"
+            },
+            "activate_button_text": "Activate",
+            "activated_button_text": "Activated",
+            "become_partner_button_text": "Become a partner",
+            "order_confirm_note": "Your monthly fee for digital order and delivery service"
+        },
+        "section_three": {
+            "title": "Great features"
+        },
+        "section_four": {
+            "title": "Optional Hardware",
+            "payment": {
+                "monthly": "Monthly",
+                "full_payment": "Full Payment"
+            },
+            "types": {
+                "standard": "Standard",
+                "style": "Style",
+                "terminal": "Terminal",
+                "printer": "Printer",
+                "touch_screen": "Touch screen 24\""
+            }
+        },
+        "section_offer": {
+            "title": "25 Euro monthly for all services",
+            "button_text": "Sign Up"
+        }
+    },
+    "top_menu": {
+        "login": "Login",
+        "menu": {
+            "dashboard": "Dashboard",
+            "logout": "Logout"
+        },
+        "locals": {
+            "en": "US",
+            "es": "ES"
+        }
+    },
+    "card": {
+        "add_card_text": "Add Card"
+    }
+}

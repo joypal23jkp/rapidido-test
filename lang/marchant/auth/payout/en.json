@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "title": "Rapedido | Create an Merchant account",
+        "keywords": "Create a merchant account",
+        "description": "Create a merchant account"
+    },
+    "title": "Payout",
+    "summery": "Set up your payout settings handled by Stripe.com. You will need an account to be able to get the funds for sales done through Rapedido. Payout takes up to 3 banking days only.",
+    "continue": "Continue to Stripe",
+    "skip": "Or Skip for now",
+    "top_menu": {
+        "login": "Signup",
+        "locals": {
+            "en": "US",
+            "es": "ES"
+        }
+    }
+}
