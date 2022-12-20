@@ -1,5 +1,6 @@
 import {NextIntlProvider} from 'next-intl';
 import { SessionProvider } from "next-auth/react"
+import * from "next-auth/client"
 import Layout from '@/components/Layout'
 import '../styles/globals.css'
 import {

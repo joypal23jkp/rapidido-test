@@ -211,7 +211,7 @@ export function SocialAuth() {
   return(
       <>
         <div className={'flex w-[90%] md:w-[50%] mx-auto gap-4'}>
-          <button className={'flex justify-center items-center w-1/2 border rounded font-semibold text-sm text-[#518EF8] px-[42px] py-4'}  onClick={async () => { await signIn('google') }}>
+          <button className={'flex justify-center items-center w-1/2 border rounded font-semibold text-sm text-[#518EF8] px-[42px] py-4'}  onClick={async () => { await signIn('google', { redirect: false }) }}>
             <span className={'bg-[#0000ff38] p-1 rounded-full mr-2'}>
               <svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <g clipPath="url(#clip0_720_14424)">
