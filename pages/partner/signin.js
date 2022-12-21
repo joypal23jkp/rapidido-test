@@ -143,6 +143,8 @@ export default function SingIn({ message }) {
       <SocialAuth />
       <h1 className="font-bold text-2xl text-center mt-6 text-[#272B30]">
         {t("title")}
+        <button onClick={() => signIn('google')}>Google</button>
+        <button onClick={() => signOut()}>OUT</button>
       </h1>
       <div className="container mx-auto">
         <form id="signin" onSubmit={handleSubmit}>
