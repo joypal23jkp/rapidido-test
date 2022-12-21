@@ -14,21 +14,6 @@ export const authOptions = {
         })
     ],
     secret: process.env.NEXTAUTH_SECRET,
-    callbacks: {
-        async jwt({ token }) {
-            token.userRole = "admin"
-            return token
-        },
-        async session({ session, token, user }) {
-            session.user.username = session.user.name
-                .split(" ")
-                .join("")
-                .toLocaleLowerCase();
-
-            session.user.uid = token.sub;
-            return session;
-        },
-    },
 }
 
 export default NextAuth(authOptions);

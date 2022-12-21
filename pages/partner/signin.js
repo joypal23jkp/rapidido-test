@@ -211,7 +211,8 @@ export function SocialAuth() {
   return(
       <>
         <div className={'flex w-[90%] md:w-[50%] mx-auto gap-4'}>
-          <button className={'flex justify-center items-center w-1/2 border rounded font-semibold text-sm text-[#518EF8] px-[42px] py-4'}  onClick={async () => { await signIn('google', { redirect: false }) }}>
+          <button className={'flex justify-center items-center w-1/2 border rounded font-semibold text-sm text-[#518EF8] px-[42px] py-4'}
+                  onClick={ () =>  signIn('google') }>
             <span className={'bg-[#0000ff38] p-1 rounded-full mr-2'}>
               <svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <g clipPath="url(#clip0_720_14424)">
@@ -229,7 +230,8 @@ export function SocialAuth() {
             </span>
             Google
           </button>
-          <button className={'flex justify-center items-center w-1/2 border rounded font-semibold text-sm text-[#3B5999] px-[42px] py-4'}  onClick={async () => await signIn('facebook')}>
+          <button className={'flex justify-center items-center w-1/2 border rounded font-semibold text-sm text-[#3B5999] px-[42px] py-4'}
+                  onClick={() => signIn('facebook')}>
             <span className={'bg-[#3B5999] rounded-full mr-2 w-5 h-5 p-[7px] flex justify-center items-center'}>
               <svg width="6" height="10" viewBox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M4.66563 1.66042H5.57854V0.0704167C5.42104 0.04875 4.87938 0 4.24854 0C1.36021 0 2.14604 3.27083 2.03104 3.75H0.578125V5.5275H2.03063V10H3.81146V5.52792H5.20521L5.42646 3.75042H3.81104C3.88938 2.57375 3.49396 1.66042 4.66563 1.66042Z" fill="white"/>

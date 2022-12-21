@@ -1,6 +1,5 @@
 import {NextIntlProvider} from 'next-intl';
 import { SessionProvider } from "next-auth/react"
-import * from "next-auth/client"
 import Layout from '@/components/Layout'
 import '../styles/globals.css'
 import {
@@ -11,8 +10,7 @@ import {
 import { ReactQueryDevtools } from 'react-query/devtools'
 import { AuthProvider } from '@/contexts/JWTContext';
 import { CartProvider } from '@/contexts/CartContext';
-import { DrawerProvider } from '../contexts/DrawerContext';
-
+import { DrawerProvider } from '@/contexts/DrawerContext';
 
 // Create a client
 const queryClient = new QueryClient();
