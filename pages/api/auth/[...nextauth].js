@@ -5,8 +5,8 @@ import FaceBookProvider from "next-auth/providers/facebook";
 export const authOptions = {
     providers: [
         GoogleProvider({
-            clientId: process.env.GOOGLE_CLIENT_ID || '333967899513-klkkpbg92983jql0mjubaseeisaa7cle.apps.googleusercontent.com',
-            clientSecret: process.env.GOOGLE_CLIENT_SECRET || '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',
+            clientId: process.env.GOOGLE_ID,
+            clientSecret: process.env.GOOGLE_SECRET,
         }),
         FaceBookProvider({
             clientId: process.env.FB_CLIENT_ID,

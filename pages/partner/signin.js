@@ -144,10 +144,6 @@ export default function SingIn({ message }) {
       <h1 className="font-bold text-2xl text-center mt-6 text-[#272B30]">
         {t("title")}
       </h1>
-      <div>
-        <p onClick={() => signIn('google')}>Google
-        </p>
-      </div>
       <div className="container mx-auto">
         <form id="signin" onSubmit={handleSubmit}>
           <Input
