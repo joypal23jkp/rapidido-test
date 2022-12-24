@@ -93,9 +93,7 @@ export default function SingIn({ message }) {
   }
   const { data: session, status } = useSession()
   useEffect(() => {
-    console.log(session)
     if(session) {
-      console.log(session)
       Swal.fire('Login Successfully - ' + session.user.name).then(() => {
         signOut().then(() => {});
       })

@@ -11,7 +11,7 @@ specifiers:
   eslint-config-next: 12.1.0
   lodash: ^4.17.21
   next: ^12.3.1
-  next-auth: ^4.12.3
+  next-auth: ^4.18.7
   next-intl: ^2.5.0
   nodemailer: ^6.7.3
   postcss: ^8.4.8
@@ -31,7 +31,7 @@ dependencies:
   defu: 6.1.1
   lodash: 4.17.21
   next: 12.3.4_sfoxds7t5ydpegc3knd667wn6m
-  next-auth: 4.18.3_avv5jm2qttgv54ekdgyggz2vsm
+  next-auth: 4.18.7_avv5jm2qttgv54ekdgyggz2vsm
   next-intl: 2.9.1_next@12.3.4+react@17.0.2
   nodemailer: 6.8.0
   prop-types: 15.8.1
@@ -3318,8 +3318,8 @@ packages:
     resolution: {integrity: sha512-OWND8ei3VtNC9h7V60qff3SVobHr996CTwgxubgyQYEpg290h9J0buyECNNJexkFm5sOajh5G116RYA1c8ZMSw==}
     dev: true
 
-  /next-auth/4.18.3_avv5jm2qttgv54ekdgyggz2vsm:
-    resolution: {integrity: sha512-oZrTPnaF7YCMm4T6+FY47+1wHacE7V6YX+MCuvRTZMca7zHAc2WPMdTED6eV3hkqp2znEdilhD4aXQ5BuCpYIw==}
+  /next-auth/4.18.7_avv5jm2qttgv54ekdgyggz2vsm:
+    resolution: {integrity: sha512-kR3s1JVPMaDuSAlFxcGyv7Ec3fdE6za71r1F77IOII5zJmW2wfkIA2xj223fM0D20ip2pzFpHfk/qN4L6l5XMA==}
     engines: {node: ^12.19.0 || ^14.15.0 || ^16.13.0 || ^18.12.0}
     peerDependencies:
       next: ^12.2.5 || ^13
