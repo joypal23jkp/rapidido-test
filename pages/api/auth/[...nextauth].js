@@ -9,10 +9,6 @@ const config = {
             clientId: process.env.GOOGLE_ID,
             clientSecret: process.env.GOOGLE_SECRET,
         }),
-        Github({
-            clientId: process.env.GITHUB_ID,
-            clientSecret: process.env.GITHUB_SECRET,
-        }),
         Facebook({
             clientId: process.env.FB_CLIENT_ID,
             clientSecret: process.env.FB_CLIENT_SECRET,
